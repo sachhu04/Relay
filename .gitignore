@@ -8,3 +8,6 @@ cmake-build-*/
 # Editor / IDE
 .vscode/
 .idea/
+
+# Local Notes
+STUDY_GUIDE.md
